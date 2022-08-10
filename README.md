@@ -1,5 +1,5 @@
 ## Hello World 👋
-<br>I am Nusrat Jahan, a fullstack software engineer working with ReactJS, NodeJS and MongoDB.<br><br>I am also a technical writer. Love to share what I learn.
+I am Nusrat Jahan, a fullstack software engineer working with ReactJS, NodeJS and MongoDB.<br><br>I am also a technical writer. Love to share what I learn.
 
 ## Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nusratjahan1535) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@nusratjahan1535) 
